@@ -1,11 +1,7 @@
 const errorHandler = require("./middleware/errorHandler")
 const express = require("express") // express server instance
-const dotenv = require("dotenv").config()
-const connectDb = require("./config/dbConnection")
 
 const app = express() // create app
-
-connectDb() //connect to database
 
 // middleware
 app.use(express.json()) // parse data-streams received from client to server side

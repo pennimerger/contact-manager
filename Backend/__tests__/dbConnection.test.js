@@ -1,5 +1,5 @@
 const mongoose = require("mongoose")
-const connectDb = require("../config/dbConnection")
+const {connectDb} = require("../config/dbConnection")
 
 jest.mock("mongoose")
 
