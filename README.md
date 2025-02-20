@@ -60,6 +60,6 @@ Contributions are welcome! If you’d like to contribute, please fork the reposi
 
 For any questions or inquiries, please reach out to me:
 - [**LinkedIn**](https://linkedin.com/in/emmanuel-ashiegbulam-5a2a38135)
-- [**Personal Website**](https://t.ly/cQEGZ)
+- [**Personal Website**](https://portfolio-nb9t.onrender.com/)
 
 Thank you for visiting! Leave a star 🌟
